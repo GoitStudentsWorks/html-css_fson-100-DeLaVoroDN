@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/lifehikers-project/",
+    "build": "vite build --base=/html-css_fson-100-DeLaVoroDN/",
     "preview": "vite preview"
   },
   "devDependencies": {
